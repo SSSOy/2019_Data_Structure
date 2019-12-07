@@ -1,0 +1,6 @@
+﻿  TreeTraversal2.c
+c:\users\박소영\desktop\수업\2학년\ds\treetraversal\treetraversal\treetraversal2.c(6): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\박소영\desktop\수업\2학년\ds\treetraversal\treetraversal\treetraversal2.c(13): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\박소영\desktop\수업\2학년\ds\treetraversal\treetraversal\treetraversal2.c(20): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\박소영\desktop\수업\2학년\ds\treetraversal\treetraversal\treetraversal2.c(27): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  TreeTraversal.vcxproj -> C:\Users\박소영\Desktop\수업\2학년\DS\TreeTraversal\Debug\TreeTraversal.exe
